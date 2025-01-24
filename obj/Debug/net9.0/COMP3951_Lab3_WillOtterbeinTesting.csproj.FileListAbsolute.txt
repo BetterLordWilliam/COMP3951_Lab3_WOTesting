@@ -1,0 +1,14 @@
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\bin\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.exe
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\bin\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.deps.json
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\bin\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.runtimeconfig.json
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\bin\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.dll
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\bin\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.pdb
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.GeneratedMSBuildEditorConfig.editorconfig
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.AssemblyInfoInputs.cache
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.AssemblyInfo.cs
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.csproj.CoreCompileInputs.cache
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.dll
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\refint\COMP3951_Lab3_WillOtterbeinTesting.dll
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.pdb
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.genruntimeconfig.cache
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\ref\COMP3951_Lab3_WillOtterbeinTesting.dll
