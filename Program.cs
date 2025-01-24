@@ -22,7 +22,9 @@ namespace UnsafeTesting
         /// <param name="args"></param>
         public static void Main(string[] args)
         {
-            Vector3S v3 = new(10, 15, 20);
+            Vector3S v3_1 = new(10, 15, 20);        // pointers work with value types
+            Vector3C v3_2 = new(10, 20, 15);        // pointers are not allowed with reference types
+            UnsafeClass1 usc1 = new(v3_1, v3_2);
 
             //unsafe
             //{
@@ -32,14 +34,16 @@ namespace UnsafeTesting
             //    }
             //}
 
+            Console.WriteLine($"Value of the vector (struct) = {v3_1}");
+            Console.WriteLine($"Value of the vector (class) = {v3_2}");
 
-            // Can write unsafe blocks too btw, just means code in the scope of the block is unsafe context
+            // Thread.Sleep(1000);
+
+            Console.WriteLine("Use the pointers in the unsafe class to get the vector (struct/class).");
             unsafe
             {
-                Vector3S* v3p = &v3;
-                Thread.Sleep(10);
-                UnsafeClass1 usc1 = new(v3p);
-                Console.WriteLine($"Value of the vector = " + *(usc1.MyVector3));
+                Console.WriteLine($"Value of the vector (struct) = {*(usc1.MyVector3S)}");  // Output?
+                Console.WriteLine($"Value of the vector (class) = {*(usc1.MyVector3C)}");   // Output?
             }
         }
     }

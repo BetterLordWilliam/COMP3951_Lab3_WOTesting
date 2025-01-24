@@ -19,7 +19,7 @@ namespace UnsafeTesting
         }
     }
 
-    class Vector3C(int x, int y, int z)
+    unsafe class Vector3C(int x, int y, int z)
     {
         int x = x, y = y, z = z;
         public override string ToString()
@@ -33,11 +33,13 @@ namespace UnsafeTesting
     /// </summary>
     unsafe class UnsafeClass1
     {
-        public Vector3S* MyVector3 { get; }
+        public Vector3S* MyVector3S { get; }
+        public Vector3C* MyVector3C { get; }
 
-        public UnsafeClass1(Vector3S* aVector3)
+        public UnsafeClass1(Vector3S aVector3S, Vector3C aVector3C)
         {
-            MyVector3 = aVector3;
+            MyVector3S = &aVector3S;
+            MyVector3C = &aVector3C;
         }
     }
 }
