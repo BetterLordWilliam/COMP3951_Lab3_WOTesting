@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9781C3BE-6968-980F-B9AE-0AE765EA3266}|COMP3951_Lab3_WillOtterbeinTesting.csproj|d:\\bcit\\cst\\sem3\\comp3951\\labs\\comp3951_lab3_wotesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9781C3BE-6968-980F-B9AE-0AE765EA3266}|COMP3951_Lab3_WillOtterbeinTesting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9781C3BE-6968-980F-B9AE-0AE765EA3266}|COMP3951_Lab3_WillOtterbeinTesting.csproj|d:\\bcit\\cst\\sem3\\comp3951\\labs\\comp3951_lab3_wotesting\\evenmorepointers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9781C3BE-6968-980F-B9AE-0AE765EA3266}|COMP3951_Lab3_WillOtterbeinTesting.csproj|solutionrelative:evenmorepointers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9781C3BE-6968-980F-B9AE-0AE765EA3266}|COMP3951_Lab3_WillOtterbeinTesting.csproj|d:\\bcit\\cst\\sem3\\comp3951\\labs\\comp3951_lab3_wotesting\\morepointers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9781C3BE-6968-980F-B9AE-0AE765EA3266}|COMP3951_Lab3_WillOtterbeinTesting.csproj|solutionrelative:morepointers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvenMorePointers.cs",
+              "DocumentMoniker": "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\EvenMorePointers.cs",
+              "RelativeDocumentMoniker": "EvenMorePointers.cs",
+              "ToolTip": "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\EvenMorePointers.cs",
+              "RelativeToolTip": "EvenMorePointers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:47:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MorePointers.cs",
+              "DocumentMoniker": "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\MorePointers.cs",
+              "RelativeDocumentMoniker": "MorePointers.cs",
+              "ToolTip": "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\MorePointers.cs",
+              "RelativeToolTip": "MorePointers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:47:00.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T20:46:59.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WillOtterbeinTesting\\COMP3951_Lab3_WillOtterbeinTesting.csproj": {}
+    "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\COMP3951_Lab3_WillOtterbeinTesting.csproj": {}
   },
   "projects": {
-    "G:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WillOtterbeinTesting\\COMP3951_Lab3_WillOtterbeinTesting.csproj": {
+    "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\COMP3951_Lab3_WillOtterbeinTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WillOtterbeinTesting\\COMP3951_Lab3_WillOtterbeinTesting.csproj",
+        "projectUniqueName": "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\COMP3951_Lab3_WillOtterbeinTesting.csproj",
         "projectName": "COMP3951_Lab3_WillOtterbeinTesting",
-        "projectPath": "G:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WillOtterbeinTesting\\COMP3951_Lab3_WillOtterbeinTesting.csproj",
-        "packagesPath": "C:\\Users\\WillOtterbein\\.nuget\\packages\\",
-        "outputPath": "G:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WillOtterbeinTesting\\obj\\",
+        "projectPath": "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\COMP3951_Lab3_WillOtterbeinTesting.csproj",
+        "packagesPath": "C:\\Users\\otter\\.nuget\\packages\\",
+        "outputPath": "D:\\BCIT\\CST\\Sem3\\COMP3951\\labs\\COMP3951_Lab3_WOTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\WillOtterbein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\otter\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
