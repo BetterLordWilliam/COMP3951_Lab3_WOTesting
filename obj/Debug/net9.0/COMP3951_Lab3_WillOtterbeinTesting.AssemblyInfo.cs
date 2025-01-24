@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("COMP3951_Lab3_WillOtterbeinTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4df56df0a7e096e9cf86a44cda639aff31a5913f")]
 [assembly: System.Reflection.AssemblyProductAttribute("COMP3951_Lab3_WillOtterbeinTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("COMP3951_Lab3_WillOtterbeinTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

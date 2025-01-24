@@ -12,3 +12,4 @@ G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9
 G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.pdb
 G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.genruntimeconfig.cache
 G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\ref\COMP3951_Lab3_WillOtterbeinTesting.dll
+G:\BCIT\CST\Sem3\COMP3951\labs\COMP3951_Lab3_WillOtterbeinTesting\obj\Debug\net9.0\COMP3951_Lab3_WillOtterbeinTesting.sourcelink.json
