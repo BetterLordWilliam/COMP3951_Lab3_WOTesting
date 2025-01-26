@@ -11,35 +11,37 @@ namespace UnsafeTesting
     /// <param name="z"></param>
     struct Vector3S(int x, int y, int z)
     {
-        int x = x, y = y, z = z;
+        public int x = x;
+        public int y = y;
+        public int z = z;
 
-        public override string ToString()
-        {
-            return $"{x}, {y}, {z}";
-        }
-    }
-
-    unsafe class Vector3C(int x, int y, int z)
+    public override string ToString()
     {
-        int x = x, y = y, z = z;
-        public override string ToString()
-        {
-            return $"{x}, {y}, {z}";
-        }
+        return $"{x}, {y}, {z}";
     }
+}
 
-    /// <summary>
-    /// Another unsafe class!
-    /// </summary>
-    unsafe class UnsafeClass1
+class Vector3C(int x, int y, int z)
+{
+    int x = x, y = y, z = z;
+    public override string ToString()
     {
-        public Vector3S* MyVector3S { get; }
-        public Vector3C* MyVector3C { get; }
-
-        public UnsafeClass1(Vector3S aVector3S, Vector3C aVector3C)
-        {
-            MyVector3S = &aVector3S;
-            MyVector3C = &aVector3C;
-        }
+        return $"{x}, {y}, {z}";
     }
+}
+
+/// <summary>
+/// Another unsafe class!
+/// </summary>
+unsafe class UnsafeClass1
+{
+    public Vector3S* MyVector3S { get; }
+    public Vector3C* MyVector3C { get; }
+
+    public UnsafeClass1(Vector3S aVector3S, Vector3C aVector3C)
+    {
+        MyVector3S = &aVector3S;
+        MyVector3C = &aVector3C;
+    }
+}
 }

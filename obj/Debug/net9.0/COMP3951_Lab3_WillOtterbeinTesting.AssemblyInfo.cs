@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("COMP3951_Lab3_WillOtterbeinTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eda84acaa518d3b00ee2e4b5db6064307afc94c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c88c794f8f1b53c37714b73e7ac65eb773abd24")]
 [assembly: System.Reflection.AssemblyProductAttribute("COMP3951_Lab3_WillOtterbeinTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("COMP3951_Lab3_WillOtterbeinTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
